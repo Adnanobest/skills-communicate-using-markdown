@@ -11,3 +11,6 @@
 x = "Hello Worlld!"
 print x
 ```
+
+- [x] this is a completed list item
+- [ ] this is a non completed list item
